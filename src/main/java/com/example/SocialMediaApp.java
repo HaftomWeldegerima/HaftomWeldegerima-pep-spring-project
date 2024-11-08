@@ -14,7 +14,7 @@ import static org.springframework.boot.SpringApplication.run;
  * This is a class that is used to run your application.
  *
  * DO NOT CHANGE ANYTHING IN THIS CLASS
- *
+ *z
  */
 @SpringBootApplication
 public class SocialMediaApp {
